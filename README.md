@@ -34,9 +34,10 @@ The primary dataset was retrieved from the [World Happiness Report 2023](https:/
 
 ## How to Run
 
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/world-happiness-report-analysis.git
+1. **Clone the repository**: Describes how to clone the repository to the local machine.
+2. **Install dependencies**: Explains how to install all necessary dependencies using `pip` and `requirements.txt`.
+3. **Run Jupyter Notebook**: Provides instructions on running the project in Jupyter Notebook.
+4. **(Optional) Run in Google Colab**: Mentions the option to run the project in Google Colab for convenience.
 
 ---
 
