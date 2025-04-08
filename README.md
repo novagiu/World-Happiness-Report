@@ -43,4 +43,4 @@ The primary dataset was retrieved from the [World Happiness Report 2023](https:/
 
 ## Author
 Iuliia Ivanova  
-Feel free to reach out via [https://www.linkedin.com/in/iuliia-ivanova-novagiu/]
+Feel free to reach out via [https://www.linkedin.com/in/novagiu/]
